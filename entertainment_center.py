@@ -2,7 +2,8 @@ from media import Movie
 from fresh_tomatoes import open_movies_page
 
 """
-List of movies
+List of movies.
+Please check Movie class in media.py file for clarification on how the Movie objects are constructed.
 """
 movies = [
 
