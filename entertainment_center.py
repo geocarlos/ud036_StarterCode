@@ -1,6 +1,9 @@
 from media import Movie
 from fresh_tomatoes import open_movies_page
 
+"""
+List of movies
+"""
 movies = [
 
     Movie("Interstellar",
@@ -55,7 +58,6 @@ movies = [
     trying to take down drug dealers and criminals before the Pope comes to Rio de Janeiro, Brazil.''',
     "https://upload.wikimedia.org/wikipedia/en/2/2a/TropaDeElitePoster.jpg",
     "https://youtu.be/ELlkWtNWyKY")
-
 ]
 
 open_movies_page(movies)
