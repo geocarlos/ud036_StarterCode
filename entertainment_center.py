@@ -1,13 +1,14 @@
 from media import Movie
 from fresh_tomatoes import open_movies_page
 
+# Prefix for Wikimedia images
+wikiUrl = "https://upload.wikimedia.org/wikipedia/en/"
+
 """
 List of movies.
 Please check Movie class in media.py file for clarification on how the Movie
 objects are constructed.
 """
-
-wikiUrl = "https://upload.wikimedia.org/wikipedia/en/"
 
 movies = [
 
