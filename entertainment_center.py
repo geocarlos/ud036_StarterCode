@@ -4,7 +4,7 @@ from fresh_tomatoes import open_movies_page
 movies = [
 
     Movie("Interstellar",
-    "",
+    "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
     "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
     "https://youtu.be/zSWdZVtXT7E"),
 
